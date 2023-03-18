@@ -1,3 +1,6 @@
+# Ignore cargo builds
+target/
+
 # Ignore any compiled files
 *.pdb
 *.exe
